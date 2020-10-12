@@ -1,9 +1,9 @@
-Create a folder named [config] into the src directory.<br />
-Create a file named [config.json] in the config folder.<br />
+Create a folder named `config` into the src directory.<br />
+Create a file named `config.json` in the config folder.<br />
 
-Get a simple free api key from [https://fortniteapi.io](Get a simple api key from https://fortniteapi.io)<br />
+Get a simple free api key from (Get a simple api key from https://fortniteapi.io)<br />
 
-Put your api key to [config.json] file as below...<br />
+Put your api key to `config.json` file as below...<br />
 
 ## `{"API_KEY": "YOUR_API_KEY"}`
 
